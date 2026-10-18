@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"tntarrowcounter","version":"2.0.0","name":"TNT Arrow Counter 26.3","description":"Client-side TNT minecart and arrow HUD counter","environment":"client","entrypoints":{"client":["com.example.tntarrowcounter.TntArrowCounterClient"]},"depends":{"fabricloader":">=0.19.5","minecraft":"26.3","java":">=25","fabric-api":"*"}}
